@@ -1,4 +1,5 @@
-# teste_API_gateway
+# Teste_API_gateway
+# Verificar a documentação
 
 Configuração Inicial
 
@@ -307,11 +308,11 @@ Respostas:
 405 Method Not Allowed
 
 Exemplo em HTML:
-<!doctype html>
-<html lang=en>
-<title>405 Method Not Allowed</title>
-<h1>Method Not Allowed</h1>
-<p>The method is not allowed for the requested URL.</p>
+#<!doctype html>
+#<html lang=en>
+#<title>405 Method Not Allowed</title>
+#<h1>Method Not Allowed</h1>
+#<p>The method is not allowed for the requested URL.</p>
 
 7. Utilizei JWT gerando um Token simétrico para a parte de segurança.
 Utilizando o Token simétrico eu simulei um caso de erro na validação do Token acarretando na finalização da API.
