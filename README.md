@@ -18,3 +18,7 @@ Endpoints da API:
 - localhost:5000/produtos/delete/{id} (DELETE)
 
 Tarefas e mais informações na documentação (library/documentação.docx)
+Código localizado na pasta:
+library/python/main.py
+
+ABS
